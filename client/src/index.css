@@ -1,0 +1,54 @@
+.selectBox {
+  width: 300px;
+  margin-top: 15px;
+  display: inline-block;
+}
+
+#first-row{
+  margin: 0 auto;
+  text-align: center;
+}
+
+#schoolSelectBox {
+  margin-right: 15px;
+}
+
+#termSelectBox {
+  margin-left: 15px;
+}
+
+.class-selection-row {
+  text-align: center;
+  margin: 5px auto;
+}
+
+.majorSelectBox {
+  margin-right: 15px;
+}
+
+.courseSelectBox {
+  margin-left: 15px;
+}
+
+#addButton {
+  margin: 0 auto;
+  margin-top: 10px;
+  text-align: center;
+}
+
+#buttonContainer{
+  margin: 0 auto;
+  text-align: center;
+}
+
+.deleteRowButton{
+  position: relative;
+  top: 50px;
+  right: 100px;
+  font-size: 30px;
+}
+
+#submitButton{
+  position: relative;
+  top: 50px;
+}
